@@ -1,0 +1,172 @@
+
+
+.bg3 {
+    background-color: #222;
+}
+.p-b-32, .p-tb-32, .p-all-32 {
+    padding-bottom: 32px;
+}
+.p-t-75, .p-tb-75, .p-all-75 {
+    padding-top: 75px;
+}
+article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+*, *:before, *:after {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+footer {
+    display: block;
+}
+
+footer {
+   
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+}
+footer{
+    box-sizing: border-box;
+    font-family: sans-serif;
+    line-height: 1.15;
+}
+*, *:before, *:after {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    margin: 0px;
+    padding: 0px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.col-lg-3{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+.bor1 {
+    border-radius: 23px;
+}
+.bg1 {
+    background-color: #717fe0;
+}
+.size-103 {
+    min-width: 179px;
+    height: 46px;
+}
+.stext-101 {
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    line-height: 1.466667;
+    text-transform: uppercase;
+}
+.cl0 {
+    color: #fff;
+}
+.flex-c-m {
+    justify-content: center;
+    -ms-align-items: center;
+    align-items: center;
+}
+.flex-w, .flex-l, .flex-r, .flex-c, .flex-sa, .flex-sb, .flex-t, .flex-b, .flex-m, .flex-str, .flex-c-m, .flex-c-t, .flex-c-b, .flex-c-str, .flex-l-m, .flex-r-m, .flex-sa-m, .flex-sb-m, .flex-col-l, .flex-col-r, .flex-col-c, .flex-col-str, .flex-col-t, .flex-col-b, .flex-col-m, .flex-col-sb, .flex-col-sa, .flex-col-c-m, .flex-col-l-m, .flex-col-r-m, .flex-col-str-m, .flex-col-c-t, .flex-col-c-b, .flex-col-c-sb, .flex-col-c-sa, .flex-col-l-sb, .flex-col-r-sb, .flex-row, .flex-row-rev, .flex-col, .flex-col-rev, .dis-flex {
+    display: flex;
+}
+.trans-04 {
+    transition: all 0.4s;
+}
+.p-r-15, .p-lr-15, .p-all-15 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+button {
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+[type=reset], [type=submit], button, html [type=button] {
+    -webkit-appearance: button;
+}
+
+.wrap-input1 {
+    position: relative;
+    border-bottom: 2px solid rgba(204,204,204, 0.1);
+}
+.w-full {
+    width: 100%;
+}
+.p-b-4, .p-tb-4, .p-all-4 {
+    padding-bottom: 4px;
+}
+*, *:before, *:after {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.input1 {
+    background-color: transparent;
+    width: 100%;
+}
+.stext-107 {
+    font-family: Poppins-Regular;
+    font-size: 13px;
+    line-height: 1.923;
+}
+
+.cl7 {
+    color: #b2b2b2;
+}
+input, textarea, label {
+    display: block;
+    outline: none;
+    border: none;
+}
+button, input {
+    overflow: visible;
+    margin-top:10px;
+}
+.p-b-4, .p-tb-4, .p-all-4 {
+    padding-bottom: 4px;
+}
+.stext-107 {
+    font-family: Poppins-Regular;
+    font-size: 13px;
+    line-height: 1.923;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+*, ::before, ::after {
+    margin: 0px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
